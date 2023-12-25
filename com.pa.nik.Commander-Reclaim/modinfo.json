@@ -1,0 +1,31 @@
+{
+  "context": "server",
+  "identifier": "com.pa.nik.Comm-Reclaim",
+  "display_name": "Commander Reclaim",
+  "description": "Re-Enables reclaiming friendly commanders for metal and adjusts commander metal value",
+  "author": "NikolaMX",
+  "version": "1.0",
+  "build": "116982",
+  "date": "2023-12-25",
+  "signature": "not yet implemented",
+  "forum": "",
+  "icon": "https://i.imgur.com/d0WNzqC.png",
+  "priority": 100,
+  "category": [
+    "titans",
+    "in-game",
+    "server",
+    "addon",
+    "unit",
+    "bugs",
+    "expansion"
+  ],
+  "scenes": {
+		"shared_build": [
+			"coui://ui/mods/com.pa.nik.stealthbot/shared_build.js"
+		]
+	},
+  "titansOnly": true,
+  "github": "N/A"
+  
+}
