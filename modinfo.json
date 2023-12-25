@@ -1,0 +1,25 @@
+{
+  "context": "server",
+  "identifier": "com.pa.nik.Comm-Reclaim",
+  "display_name": "Commander Reclaim",
+  "description": "Re-Enables reclaiming friendly commanders for metal and tweaks commander stats a little to accomodate for the change",
+  "author": "NikolaMX",
+  "version": "1.0",
+  "build": "116982",
+  "date": "2023-12-25",
+  "signature": "not yet implemented",
+  "forum": "",
+  "icon": "https://i.imgur.com/d0WNzqC.png",
+  "priority": 100,
+  "category": [
+    "titans",
+    "in-game",
+    "server",
+    "unit",
+    "balance",
+    "expansion"
+  ],
+  "titansOnly": true,
+  "github": "https://github.com/NikolaMX/Commander_Reclaim"
+  
+}
